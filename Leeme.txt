@@ -1,0 +1,7 @@
+Antes de ejecutar la aplicaci�n, copiar el contenido del cd al ordenador.
+Para ejecutar la aplicaci�n pulsar sobre el archivo Proyecto.jar
+
+Nota: Se han detectado problemas de visi�n en el panel lateral cuando el programa se ejecuta en Windows 7 64 bits.
+Se ha probado en diversos sistemas operativos a distintas resoluciones y el resultado es correcto.
+
+J. Rodr�guez
